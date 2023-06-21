@@ -32,7 +32,7 @@ const transporter = nodemailer.createTransport({
 
 const mailOptions = {
     from: email,
-    to: "nahuelfacundo24@gmail.com",
+    to: "Braii.pabon@gmail.com",
     subject:"Formulario de contacto",
     text:  `
     Nombre: ${nombre} /n 
